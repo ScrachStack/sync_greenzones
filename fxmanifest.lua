@@ -2,7 +2,7 @@ fx_version "cerulean"
 game { "gta5" }
 
 author 'ScratchStack'
-version '1.0.0'
+version '2.0.0'
 
 lua54 'yes'
 client_script 'greenzone.lua'
